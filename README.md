@@ -158,6 +158,6 @@ To back-end της ιστοσελίδας έχει υλοποιηθεί σε Nod
 
 Εφόσον υλοποιήσαμε τη βάση δεδομένων μας με NoSQL database MongoDB δεν είναι δυνατή η αναπαράσταση υπό τη μορφή Σχεσιακών Πινάκων και Διαγραμμάτων ER. Ωστόσο, αν δεν την υλοποιούσαμε με Non-Relational Database ο σχεδιασμός της βάσης μας θα γινόταν με βάση τα εξής:
 
-![erd.png](%screenshots/erd.png)
+![erd.png](screenshots/erd.png)
 
 ![erd2.png](screenshots/erd2.png)
